@@ -6,4 +6,4 @@
 - Researchers can also request for redacted version of a specific data.
 - Technologies used: Hyperledger Composer, Hyperledger Fabric, Couch Db, JavaScript. 
 
-Click [here](https://github.com/amtj/EHR-Storage-using-Blockchain/blob/master/Detailed%20report.pdf) for detailed report.
+Click [here](https://github.com/Abhi464/EHR-Storage-using-Blockchain/blob/master/Detailed%20report.pdf) for detailed report.
